@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: AdiBags - Locked
+## Notes: Filter items into a custom 'Locked' section using Click Modifiers for Project Ascension.
+## Author: YourName
+## Version: 1.0.0
+## RequiredDeps: AdiBags
+## X-Category: Bags & Inventory
+## X-From-Launcher: 1
+
+AdiBags_Locked.lua
