@@ -2,6 +2,8 @@
 AdiBags_Outfutter - Adds Outfitter set filters to AdiBags.
 Copyright 2010 Adirelle (adirelle@tagada-team.net)
 All rights reserved.
+
+This addon was created with the above credits as reference. It was vibe coded and effort on my part was negligible.
 --]]
 
 -- AdiBags_Locked - Adds a custom 'Locked' filter to AdiBags.
